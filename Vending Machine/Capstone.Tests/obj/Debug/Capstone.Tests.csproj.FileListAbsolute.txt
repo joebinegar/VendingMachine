@@ -1,0 +1,17 @@
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Capstone.Tests.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Capstone.Tests.pdb
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csprojAssemblyReference.cache
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CopyComplete
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\obj\Debug\Capstone.Tests.dll
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\obj\Debug\Capstone.Tests.pdb
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Capstone.exe
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Capstone.pdb
+C:\Workspace\team\team2-c-week4-pair-exercises\c#-capstone\Capstone.Tests\bin\Debug\Capstone.exe.config
